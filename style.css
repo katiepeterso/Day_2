@@ -17,3 +17,16 @@ header h1 {
 body:hover {
   background-color:gray;
 }
+aside section p {
+  font-size: 3em;
+  font-family: calibri;
+  text-align: center;
+}
+.turquoise {
+  color: #40E0D0;
+}
+ul {
+  font-family: calibri;
+  font-size: 1.5em;
+  list-style-type: kannada;
+}
